@@ -1,0 +1,1 @@
+Epoch: 5, Best Val Loss: 0.228255, Learning Rate: 0.000007

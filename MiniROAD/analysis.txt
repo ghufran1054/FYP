@@ -1,0 +1,397 @@
+Video	Accuracy
+video_test_0000292	0.0000
+Background SoccerPenalty 
+video_test_0001078	0.1420
+Background VolleyballSpiking 
+video_test_0000896	0.7778
+Background HighJump 
+video_test_0000897	0.0000
+Background CricketBowling 
+video_test_0001079	0.6985
+Background LongJump Ambiguous 
+video_test_0000807	0.2153
+Background Diving 
+video_test_0000179	0.6979
+Background BasketballDunk 
+video_test_0000173	0.3077
+Background CliffDiving 
+video_test_0001072	0.7714
+Background HammerThrow 
+video_test_0001075	0.3701
+Background Billiards Ambiguous 
+video_test_0000767	0.8571
+Background BaseballPitch 
+video_test_0001076	0.2657
+Background CliffDiving Ambiguous 
+video_test_0000007	0.7679
+Background JavelinThrow 
+video_test_0000006	0.0065
+Background VolleyballSpiking 
+video_test_0000556	0.4500
+Background Billiards 
+video_test_0001307	0.9136
+Background CleanAndJerk 
+video_test_0001153	0.4390
+Background SoccerPenalty 
+video_test_0000718	0.5676
+Background BasketballDunk Ambiguous 
+video_test_0001309	0.7761
+Background Diving 
+video_test_0000714	0.5556
+Background BaseballPitch Ambiguous 
+video_test_0000558	0.4252
+Background Billiards 
+video_test_0001267	0.0288
+Background Billiards Ambiguous 
+video_test_0000367	0.0485
+Background HighJump JavelinThrow Shotput Ambiguous 
+video_test_0001324	0.2961
+Background BaseballPitch 
+video_test_0000085	0.2500
+Background Diving 
+video_test_0000887	0.3810
+Background HighJump 
+video_test_0001281	0.9770
+Background LongJump 
+video_test_0000882	0.7369
+Background HammerThrow 
+video_test_0000671	0.5761
+Background ThrowDiscus 
+video_test_0000964	0.3000
+Background BaseballPitch 
+video_test_0001114	0.2115
+Background Shotput 
+video_test_0000771	0.9571
+Background Billiards 
+video_test_0001163	0.8591
+Background GolfSwing 
+video_test_0001118	0.1852
+Background SoccerPenalty 
+video_test_0001201	0.2816
+Background PoleVault Ambiguous 
+video_test_0001040	0.3590
+Background Shotput 
+video_test_0000723	0.0789
+Background VolleyballSpiking 
+video_test_0000569	0.4400
+Background CricketBowling CricketShot 
+video_test_0000672	0.1176
+Background FrisbeeCatch 
+video_test_0000673	0.1531
+Background CliffDiving 
+video_test_0000278	0.6256
+Background CliffDiving Ambiguous 
+video_test_0001162	0.1991
+Background PoleVault 
+video_test_0000405	0.0588
+Background CricketShot Ambiguous 
+video_test_0000073	0.7895
+Background ThrowDiscus 
+video_test_0000560	0.9167
+Background BasketballDunk 
+video_test_0001276	0.3125
+Background CricketShot 
+video_test_0000270	nan
+Background 
+video_test_0000273	0.5285
+Background CricketBowling CricketShot 
+video_test_0000374	0.4286
+Background TennisSwing 
+video_test_0000372	0.7123
+Background HammerThrow 
+video_test_0001168	0.0826
+Background TennisSwing Ambiguous 
+video_test_0001446	0.8704
+Background JavelinThrow 
+video_test_0001447	0.3333
+Background BaseballPitch 
+video_test_0001098	0.5361
+Background HighJump 
+video_test_0000873	0.9091
+Background BaseballPitch 
+video_test_0000039	0.2092
+Background TennisSwing 
+video_test_0000442	0.7150
+Background HighJump 
+video_test_0001219	0.5823
+Background LongJump 
+video_test_0000762	0.4414
+Background VolleyballSpiking 
+video_test_0000611	0.1964
+Background GolfSwing Ambiguous 
+video_test_0000617	0.8943
+Background CleanAndJerk 
+video_test_0000615	0.3723
+Background VolleyballSpiking Ambiguous 
+video_test_0001270	0.9268
+Background CleanAndJerk 
+video_test_0000740	0.9507
+Background CleanAndJerk 
+video_test_0000293	0.1946
+Background JavelinThrow Ambiguous 
+video_test_0000504	0.9245
+Background CleanAndJerk 
+video_test_0000505	0.6789
+Background CleanAndJerk 
+video_test_0000665	0.7110
+Background PoleVault 
+video_test_0000664	0.7907
+Background BaseballPitch Ambiguous 
+video_test_0000577	0.4706
+Background Billiards 
+video_test_0000814	0.7589
+Background ThrowDiscus 
+video_test_0001194	0.0000
+Background CricketBowling CricketShot 
+video_test_0001512	0.8571
+Background FrisbeeCatch Ambiguous 
+video_test_0000691	0.0674
+Background Shotput Ambiguous 
+video_test_0000765	0.0538
+Background Shotput 
+video_test_0001452	0.2121
+Background VolleyballSpiking 
+video_test_0000188	0.9470
+Background HighJump 
+video_test_0000591	1.0000
+Background SoccerPenalty 
+video_test_0001268	0.5743
+Background Shotput 
+video_test_0000593	0.1471
+Background Shotput Ambiguous 
+video_test_0000864	0.6484
+Background JavelinThrow 
+video_test_0000601	0.5530
+Background BasketballDunk 
+video_test_0001135	0.9231
+Background FrisbeeCatch 
+video_test_0000004	0.0789
+Background CricketBowling CricketShot 
+video_test_0000903	0.7820
+Background BasketballDunk 
+video_test_0000285	0.1966
+Background CliffDiving 
+video_test_0001174	0.5090
+Background ThrowDiscus 
+video_test_0000046	0.5970
+Background GolfSwing 
+video_test_0000045	0.4960
+Background Shotput ThrowDiscus 
+video_test_0001223	0.4000
+Background ThrowDiscus 
+video_test_0001358	0.1753
+Background CricketBowling CricketShot 
+video_test_0001134	0.3204
+Background CliffDiving Ambiguous 
+video_test_0000698	1.0000
+Background CleanAndJerk 
+video_test_0000461	0.5414
+Background Diving Ambiguous 
+video_test_0001182	0.7500
+Background BaseballPitch 
+video_test_0000450	0.0000
+Background VolleyballSpiking 
+video_test_0000602	0.5517
+Background Diving 
+video_test_0001229	0.8429
+Background HammerThrow 
+video_test_0000989	0.2152
+Background Diving Ambiguous 
+video_test_0000357	0.2381
+Background CliffDiving 
+video_test_0001039	0.2491
+Background Shotput 
+video_test_0000353	0.6032
+Background CricketBowling CricketShot 
+video_test_0001508	0.3986
+Background FrisbeeCatch Ambiguous 
+video_test_0000981	0.7778
+Background CricketBowling 
+video_test_0000242	0.5238
+Background LongJump 
+video_test_0000854	0.4152
+Background Shotput 
+video_test_0001484	0.7748
+Background SoccerPenalty 
+video_test_0000635	0.9344
+Background CleanAndJerk 
+video_test_0001129	0.3627
+Background Shotput 
+video_test_0001339	0.4026
+Background CliffDiving 
+video_test_0001483	0.8916
+Background CleanAndJerk 
+video_test_0001123	0.8211
+Background PoleVault 
+video_test_0001127	0.3601
+Background GolfSwing Ambiguous 
+video_test_0000689	0.0500
+Background SoccerPenalty 
+video_test_0000756	0.0976
+Background TennisSwing 
+video_test_0001431	0.6975
+Background HammerThrow 
+video_test_0000129	0.1705
+Background Shotput 
+video_test_0001433	0.1667
+Background FrisbeeCatch Ambiguous 
+video_test_0001343	0.4085
+Background BasketballDunk Ambiguous 
+video_test_0000324	0.8333
+Background BaseballPitch 
+video_test_0001064	0.8009
+Background BasketballDunk 
+video_test_0001531	0.3327
+Background TennisSwing 
+video_test_0001532	0.3415
+Background Diving Ambiguous 
+video_test_0000413	0.8824
+Background FrisbeeCatch 
+video_test_0000991	0.0940
+Background SoccerPenalty 
+video_test_0001202	0.0000
+Background VolleyballSpiking 
+video_test_0001080	0.7340
+Background ThrowDiscus 
+video_test_0001081	0.4286
+Background Diving 
+video_test_0000847	0.2016
+Background GolfSwing Ambiguous 
+video_test_0000028	0.8159
+Background GolfSwing 
+video_test_0000844	0.2800
+Background CliffDiving 
+video_test_0000622	0.4599
+Background CricketBowling CricketShot 
+video_test_0000026	0.4274
+Background TennisSwing 
+video_test_0001325	0.0000
+Background CricketShot 
+video_test_0001496	0.5587
+Background FrisbeeCatch Ambiguous 
+video_test_0001495	0.8673
+Background LongJump 
+video_test_0000624	0.3913
+Background Diving Ambiguous 
+video_test_0000724	0.2320
+Background CliffDiving 
+video_test_0001409	0.0000
+Background SoccerPenalty 
+video_test_0000131	0.0000
+Background CliffDiving 
+video_test_0000448	0.0896
+Background CricketShot Ambiguous 
+video_test_0000444	0.9038
+Background PoleVault 
+video_test_0000443	0.4474
+Background HammerThrow 
+video_test_0001038	0.6000
+Background BaseballPitch 
+video_test_0000238	0.9308
+Background GolfSwing 
+video_test_0001527	0.3796
+Background Shotput 
+video_test_0001522	0.4583
+Background TennisSwing 
+video_test_0000051	0.2985
+Background Billiards 
+video_test_0001391	0.9375
+Background JavelinThrow 
+video_test_0000429	0.2996
+Background VolleyballSpiking 
+video_test_0000426	0.0660
+Background VolleyballSpiking Ambiguous 
+video_test_0000785	0.0000
+Background CliffDiving 
+video_test_0000786	0.4697
+Background CricketBowling CricketShot 
+video_test_0001314	0.7509
+Background JavelinThrow 
+video_test_0000392	0.4025
+Background CricketBowling CricketShot 
+video_test_0000423	0.4409
+Background TennisSwing 
+video_test_0001146	0.1194
+Background Billiards 
+video_test_0001313	0.2734
+Background CricketBowling CricketShot 
+video_test_0001008	0.8861
+Background HighJump 
+video_test_0001247	0.0000
+Background Billiards 
+video_test_0000737	0.5905
+Background CleanAndJerk 
+video_test_0001319	0.2710
+Background VolleyballSpiking 
+video_test_0000308	0.8303
+Background HighJump 
+video_test_0000730	0.1047
+Background CliffDiving 
+video_test_0000058	0.2573
+Background CleanAndJerk 
+video_test_0000538	0.3750
+Background HighJump 
+video_test_0001556	0.2941
+Background SoccerPenalty 
+video_test_0000113	0.9178
+Background GolfSwing 
+video_test_0000626	0.4709
+Background PoleVault 
+video_test_0000839	0.8241
+Background HighJump 
+video_test_0000220	0.3971
+Background HighJump 
+video_test_0001389	0.3041
+Background TennisSwing 
+video_test_0000437	0.2467
+Background CliffDiving Ambiguous 
+video_test_0000940	0.5185
+Background CliffDiving Diving Ambiguous 
+video_test_0000211	0.7647
+Background VolleyballSpiking 
+video_test_0000946	0.9655
+Background BaseballPitch 
+video_test_0001558	0.0000
+Background CliffDiving 
+video_test_0000796	0.0891
+Background CricketBowling CricketShot 
+video_test_0000062	0.5152
+Background LongJump 
+video_test_0000987	0.1620
+Background ThrowDiscus 
+video_test_0001066	0.1592
+Background Shotput 
+video_test_0000412	0.5882
+Background Billiards 
+video_test_0000798	0.0455
+Background CricketBowling CricketShot 
+video_test_0001549	0.1204
+Background FrisbeeCatch Ambiguous 
+video_test_0000011	0.2692
+Background Shotput 
+video_test_0001257	0.6620
+Background BasketballDunk 
+video_test_0000541	0.0000
+Background SoccerPenalty 
+video_test_0000701	0.3824
+Background SoccerPenalty 
+video_test_0000250	0.6728
+Background BasketballDunk 
+video_test_0000254	0.5191
+Background Diving 
+video_test_0000549	0.1719
+Background CricketBowling CricketShot Ambiguous 
+video_test_0001209	0.5315
+Background JavelinThrow Ambiguous 
+video_test_0001463	0.4315
+Background VolleyballSpiking 
+video_test_0001460	0.5385
+Background CricketBowling CricketShot 
+video_test_0000319	0.5152
+Background ThrowDiscus 
+video_test_0001468	0.5856
+Background CleanAndJerk ThrowDiscus 
+video_test_0000846	0.8737
+Background Shotput 
+video_test_0001292	0.2455
+Background Ambiguous 
