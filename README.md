@@ -21,7 +21,8 @@
 3. If you want to experiment with the ResNet50 backbones you can goto mmaction repository using the [mmaction](https://github.com/open-mmlab/mmaction2/tree/54bc294bff7f742777f5cbb195705c1040a72ebe/configs/recognition/tsn) . From here you can download the weights for RGB models. Setup the mmaction repository to use these ResNet50 weights.
 
 #### Checkpoints and onnx files
-All the onnx files and checkpoints will be updated here with a drive link later.
+All the onnx files and checkpoints can be accessed here:
+[Drive Link](https://drive.google.com/drive/folders/1Fnr0Gbo3rC9xJgX9iGAGxGuIBvuwmO5E?usp=sharing)
 
 #### Acknowledgement
 The code for the GRU model is from the [MiniROAD](https://github.com/jbistanbul/MiniROAD) repository and the insipiration for the implementation of IMFE model is from [RT-Hare](https://arxiv.org/pdf/2409.05662).
